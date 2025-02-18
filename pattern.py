@@ -5,7 +5,7 @@ def pattern(n):
         z=int(n-i/2)
         if i%2!=0:
             i-=1
-            print('{}{}{}'.format(' '* z, '*'*i, ' '* z)
+            print('{}{}{}'.format(' '* z, '*'*i, ' '* z))
         else:
             i+=1
             print('{}{}{}'.format(' ' * z, '*' * i, ' ' * z))

@@ -14,17 +14,17 @@ print(res_list)
 """
 
 # using list comprehension
-"""
+
 
 res_list = [v for k, v in enumerate(list_dic) if v not in list_dic[k+1:]]
 print(res_list)
+print(enumerate(list_dic))
 
-"""
 
 # using frozenset
 
-res_list = {frozenset(item.items()): item for item in list_dic}.values()
-print(list(res_list))
+# res_list = {frozenset(item.items()): item for item in list_dic}.values()
+# print(list(res_list))
 
 
 

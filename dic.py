@@ -13,4 +13,9 @@ def func(item):
 # using sort function
 # print(sorted(list_of_dic, key=func))
 
-# sorting
+# merging dictionary
+
+a = {'a':1}
+b = {'b':2}
+a.update(b)
+print(a) #{'a': 1, 'b': 2}
