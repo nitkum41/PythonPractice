@@ -5,15 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b13e9cc3-1b71-4d52-8db3-c92cfd7c2cf9" name="Changes" comment="merging master to main">
-      <change afterPath="$PROJECT_DIR$/interview.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vquestions1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/cloneorcopylist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/counterlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/primenumbercheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/specialcharacters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/swap_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/swap_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/swapanyelementsinlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/urlregex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/test1111.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dic.py" beforeDir="false" afterPath="$PROJECT_DIR$/dic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listdic.py" beforeDir="false" afterPath="$PROJECT_DIR$/listdic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classinheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/classinheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/dataframe_ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datetime_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/datetime_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorator_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/decorator_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dic.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/dic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionary1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/dictionary1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forloop.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/forloop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global_local.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/global_local.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview.py" beforeDir="false" afterPath="$PROJECT_DIR$/interview/interview.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview2.py" beforeDir="false" afterPath="$PROJECT_DIR$/interview/interview2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_com.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/list_com.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_enum_tuple_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/list_enum_tuple_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listcomprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/listcomprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listdic.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/listdic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map_filter_gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/map_filter_gen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathreverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/mathreverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/matplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplotlib_bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/matplotlib_bar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matsubplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/matsubplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/multi_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nparray.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/nparray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpyy.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/numpyy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/random1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scatter.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/scatter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/super.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1111.py" beforeDir="false" afterPath="$PROJECT_DIR$/interview/clearlist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/thread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/thread1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vquestions1.py" beforeDir="false" afterPath="$PROJECT_DIR$/interview/vquestions1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/while.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +66,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/interview/primenumbercheck.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/interview/specialcharacters.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/interview/urlregex.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -38,19 +79,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.forloop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listdic.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Python.random1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vquestions1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.clearlist.executor": "Run",
+    "Python.cloneorcopylist.executor": "Run",
+    "Python.counterlist.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.fibonacci.executor": "Run",
+    "Python.forloop.executor": "Run",
+    "Python.listdic.executor": "Run",
+    "Python.pattern.executor": "Run",
+    "Python.primenumbercheck.executor": "Run",
+    "Python.random1.executor": "Run",
+    "Python.specialcharacters.executor": "Run",
+    "Python.swap_list.executor": "Run",
+    "Python.swap_numbers.executor": "Run",
+    "Python.urlregex.executor": "Run",
+    "Python.vquestions1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="RunManager" selected="Python.pattern">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\practice" />
+      <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\interview" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.urlregex">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="forloop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="clearlist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forloop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/clearlist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listdic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="cloneorcopylist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listdic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/cloneorcopylist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="counterlist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,11 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pattern.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/counterlist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="random1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="specialcharacters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,11 +205,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/specialcharacters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vquestions1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="urlregex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,11 +227,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vquestions1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/urlregex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,11 +287,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pattern" />
-        <item itemvalue="Python.listdic" />
-        <item itemvalue="Python.vquestions1" />
-        <item itemvalue="Python.random1" />
-        <item itemvalue="Python.forloop" />
+        <item itemvalue="Python.urlregex" />
+        <item itemvalue="Python.specialcharacters" />
+        <item itemvalue="Python.counterlist" />
+        <item itemvalue="Python.cloneorcopylist" />
+        <item itemvalue="Python.clearlist" />
       </list>
     </recent_temporary>
   </component>
