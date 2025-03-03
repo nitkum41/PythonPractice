@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b13e9cc3-1b71-4d52-8db3-c92cfd7c2cf9" name="Changes" comment="merging master to main">
-      <change afterPath="$PROJECT_DIR$/interview/checkoccurenceinstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview/firstchareachwordsentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview/largestsubstringwithoutrepeatchar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview/mostrepeatedcharactersstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview/removecharsandnumbersfromstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/duplicateitemsinlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/frequencyofcharsinstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/numbersfromlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/setdifference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/substringpresent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/decorator_basic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/swap_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/interview/swap_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/list_enum_tuple_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/list_enum_tuple_set.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,18 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "nitkum41"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nitkum41&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nitkum41/PythonPractice.git",
-    "accountId": "37a97762-97c1-4a59-ae50-4502fc663edd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nitkum41/PythonPractice.git&quot;,
+    &quot;accountId&quot;: &quot;37a97762-97c1-4a59-ae50-4502fc663edd&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/interview/primenumbercheck.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/interview/specialcharacters.py" root0="SKIP_INSPECTION" />
@@ -54,22 +59,29 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.anagram.executor": "Run",
     "Python.checkoccurenceinstring.executor": "Run",
     "Python.clearlist.executor": "Run",
     "Python.cloneorcopylist.executor": "Run",
     "Python.counterlist.executor": "Run",
+    "Python.duplicateitemsinlist.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.fibonacci.executor": "Run",
     "Python.firstchareachwordsentence.executor": "Run",
     "Python.forloop.executor": "Run",
+    "Python.frequencyofcharsinstring.executor": "Run",
+    "Python.interview.executor": "Run",
     "Python.largestsubstringwithoutrepeatchar.executor": "Run",
+    "Python.list_enum_tuple_set.executor": "Run",
     "Python.listdic.executor": "Run",
     "Python.mostrepeatedcharactersstring.executor": "Run",
     "Python.pattern.executor": "Run",
     "Python.primenumbercheck.executor": "Run",
     "Python.random1.executor": "Run",
     "Python.removecharsandnumbersfromstring.executor": "Run",
+    "Python.setdifference.executor": "Run",
     "Python.specialcharacters.executor": "Run",
+    "Python.substringpresent.executor": "Run",
     "Python.swap_list.executor": "Run",
     "Python.swap_numbers.executor": "Run",
     "Python.urlregex.executor": "Run",
@@ -85,7 +97,7 @@
       <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\interview" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.largestsubstringwithoutrepeatchar">
+  <component name="RunManager" selected="Python.substringpresent">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="checkoccurenceinstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/checkoccurenceinstring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/anagram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="firstchareachwordsentence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="duplicateitemsinlist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/firstchareachwordsentence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/duplicateitemsinlist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="largestsubstringwithoutrepeatchar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="frequencyofcharsinstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,7 +177,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/largestsubstringwithoutrepeatchar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/frequencyofcharsinstring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mostrepeatedcharactersstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="setdifference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,7 +199,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/mostrepeatedcharactersstring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/setdifference.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="removecharsandnumbersfromstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="substringpresent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,7 +221,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/removecharsandnumbersfromstring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/substringpresent.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,11 +277,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.largestsubstringwithoutrepeatchar" />
-        <item itemvalue="Python.firstchareachwordsentence" />
-        <item itemvalue="Python.mostrepeatedcharactersstring" />
-        <item itemvalue="Python.removecharsandnumbersfromstring" />
-        <item itemvalue="Python.checkoccurenceinstring" />
+        <item itemvalue="Python.substringpresent" />
+        <item itemvalue="Python.setdifference" />
+        <item itemvalue="Python.duplicateitemsinlist" />
+        <item itemvalue="Python.frequencyofcharsinstring" />
+        <item itemvalue="Python.anagram" />
       </list>
     </recent_temporary>
   </component>
