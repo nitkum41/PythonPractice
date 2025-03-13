@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b13e9cc3-1b71-4d52-8db3-c92cfd7c2cf9" name="Changes" comment="merging master to main">
-      <change afterPath="$PROJECT_DIR$/interview.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview/anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview/duplicateitemsinlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview/frequencyofcharsinstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview/numbersfromlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview/setdifference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview/substringpresent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/decorator_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_collection/arrayreverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_collection/numberreverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_collection/stringreverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_collection/swap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview/swap_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/interview/swap_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/list_enum_tuple_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/list_enum_tuple_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/decorator_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/decorator_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +55,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.anagram.executor": "Run",
+    "Python.arrayreverse.executor": "Run",
     "Python.checkoccurenceinstring.executor": "Run",
     "Python.clearlist.executor": "Run",
     "Python.cloneorcopylist.executor": "Run",
     "Python.counterlist.executor": "Run",
+    "Python.decorator_test.executor": "Run",
     "Python.duplicateitemsinlist.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.fibonacci.executor": "Run",
@@ -75,20 +72,24 @@
     "Python.list_enum_tuple_set.executor": "Run",
     "Python.listdic.executor": "Run",
     "Python.mostrepeatedcharactersstring.executor": "Run",
+    "Python.numberreverse.executor": "Run",
     "Python.pattern.executor": "Run",
     "Python.primenumbercheck.executor": "Run",
     "Python.random1.executor": "Run",
     "Python.removecharsandnumbersfromstring.executor": "Run",
     "Python.setdifference.executor": "Run",
     "Python.specialcharacters.executor": "Run",
+    "Python.stringreverse.executor": "Run",
     "Python.substringpresent.executor": "Run",
+    "Python.swap.executor": "Run",
     "Python.swap_list.executor": "Run",
     "Python.swap_numbers.executor": "Run",
     "Python.urlregex.executor": "Run",
     "Python.vquestions1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -97,7 +98,7 @@
       <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\interview" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.substringpresent">
+  <component name="RunManager" selected="Python.arrayreverse">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="arrayreverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview_collection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/anagram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview_collection/arrayreverse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="duplicateitemsinlist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="decorator_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/duplicateitemsinlist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/decorator_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="frequencyofcharsinstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="numberreverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,11 +174,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview_collection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/frequencyofcharsinstring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview_collection/numberreverse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="setdifference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stringreverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,11 +196,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview_collection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/setdifference.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview_collection/stringreverse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="substringpresent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="swap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,11 +218,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview_collection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/substringpresent.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview_collection/swap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.substringpresent" />
-        <item itemvalue="Python.setdifference" />
-        <item itemvalue="Python.duplicateitemsinlist" />
-        <item itemvalue="Python.frequencyofcharsinstring" />
-        <item itemvalue="Python.anagram" />
+        <item itemvalue="Python.arrayreverse" />
+        <item itemvalue="Python.numberreverse" />
+        <item itemvalue="Python.stringreverse" />
+        <item itemvalue="Python.swap" />
+        <item itemvalue="Python.decorator_test" />
       </list>
     </recent_temporary>
   </component>
