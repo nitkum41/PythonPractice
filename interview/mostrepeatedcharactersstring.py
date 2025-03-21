@@ -7,8 +7,11 @@ for i in mystring:
     else:
         my_dict[i]=1
 
+print(my_dict)
 char=""
 count=0
+
+##getting largest count from the values section
 
 for c,i in my_dict.items():
     if i>count:
