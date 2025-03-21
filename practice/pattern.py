@@ -11,4 +11,4 @@ def pattern(n):
             print('{}{}{}'.format(' ' * z, '*' * i, ' ' * z))
 
 
-pattern(17)
+pattern(5)

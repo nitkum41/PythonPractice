@@ -1,13 +1,13 @@
 import time
-from datetime_operations import datetime
-from datetime_operations import timedelta
+import datetime
 
 print(time.timezone)
 
 
-print(datetime.now().date()) ##todays date
+print(datetime.date.today()) ##todays date
 
-today_date=datetime.now().date()
+today_date=datetime.date.today()
 
 
-print(today_date-timedelta(days=1))  # a day before
+
+print(today_date - datetime.timedelta(days=1))  # a day before

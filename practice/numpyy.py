@@ -1,5 +1,12 @@
 import numpy as np
 
-arr = np.array([[1, 2, 3, 4], [5, 6, 7, 8]])
+from numpy import std
 
-print(arr)
+arr = np.array([[5, 2, 7, 4], [9, 6, 17, 8]])
+
+print(type(arr[0]))
+
+print(np.sort(arr[0]))
+print(len(arr))
+print(std(arr[0][1:3]))
+

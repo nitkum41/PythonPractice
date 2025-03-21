@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b13e9cc3-1b71-4d52-8db3-c92cfd7c2cf9" name="Changes" comment="merging master to main">
-      <change afterPath="$PROJECT_DIR$/interview_collection/arrayreverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_collection/numberreverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_collection/stringreverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_collection/swap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/dump_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/json_dumps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/json_loads.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/json_ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/reversenumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/setops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python basics_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python basics_practice.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/decorator_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/decorator_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/datetime_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/datetime_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/forloop.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/prime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/list_com.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/list_com.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/numpyy.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/numpyy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/thread1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/thread1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +69,7 @@
     "Python.clearlist.executor": "Run",
     "Python.cloneorcopylist.executor": "Run",
     "Python.counterlist.executor": "Run",
+    "Python.datetime_operations.executor": "Run",
     "Python.decorator_test.executor": "Run",
     "Python.duplicateitemsinlist.executor": "Run",
     "Python.factorial.executor": "Run",
@@ -68,22 +78,33 @@
     "Python.forloop.executor": "Run",
     "Python.frequencyofcharsinstring.executor": "Run",
     "Python.interview.executor": "Run",
+    "Python.json_dumps (1).executor": "Run",
+    "Python.json_dumps.executor": "Run",
+    "Python.json_loads.executor": "Run",
+    "Python.json_ops.executor": "Run",
     "Python.largestsubstringwithoutrepeatchar.executor": "Run",
+    "Python.list_com.executor": "Run",
     "Python.list_enum_tuple_set.executor": "Run",
     "Python.listdic.executor": "Run",
     "Python.mostrepeatedcharactersstring.executor": "Run",
+    "Python.nparray.executor": "Run",
     "Python.numberreverse.executor": "Run",
+    "Python.numpyy.executor": "Run",
     "Python.pattern.executor": "Run",
+    "Python.prime (1).executor": "Debug",
     "Python.primenumbercheck.executor": "Run",
     "Python.random1.executor": "Run",
     "Python.removecharsandnumbersfromstring.executor": "Run",
+    "Python.reverse.executor": "Run",
     "Python.setdifference.executor": "Run",
+    "Python.setops.executor": "Run",
     "Python.specialcharacters.executor": "Run",
     "Python.stringreverse.executor": "Run",
     "Python.substringpresent.executor": "Run",
     "Python.swap.executor": "Run",
     "Python.swap_list.executor": "Run",
     "Python.swap_numbers.executor": "Run",
+    "Python.thread1.executor": "Run",
     "Python.urlregex.executor": "Run",
     "Python.vquestions1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -94,11 +115,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\json" />
       <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\practice" />
       <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\interview" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.arrayreverse">
+  <component name="RunManager" selected="Python.datetime_operations">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,29 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="arrayreverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python basics_practice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview_collection" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview_collection/arrayreverse.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="decorator_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="datetime_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,7 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/decorator_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/datetime_operations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numberreverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_com" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,11 +174,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview_collection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview_collection/numberreverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/list_com.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stringreverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prime (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,11 +196,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview_collection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview_collection/stringreverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/prime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,11 +218,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview_collection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview_collection/swap.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\nitku\PycharmProjects\python basics_practice\practice\prime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python basics_practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/setops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,11 +300,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.arrayreverse" />
-        <item itemvalue="Python.numberreverse" />
-        <item itemvalue="Python.stringreverse" />
-        <item itemvalue="Python.swap" />
-        <item itemvalue="Python.decorator_test" />
+        <item itemvalue="Python.datetime_operations" />
+        <item itemvalue="Python.prime (1)" />
+        <item itemvalue="Python.prime" />
+        <item itemvalue="Python.setops" />
+        <item itemvalue="Python.list_com" />
       </list>
     </recent_temporary>
   </component>
@@ -320,6 +342,17 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main branch" />
