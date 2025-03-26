@@ -16,6 +16,6 @@ def find_missing_numbers(arr, n):
     print()  # Add a newline for better readability
 
 # Example usage:
-arr = [1, 2, 4, 6]
+arr = [1, 2, 4, 7]
 n = len(arr) + 2  # Calculate expected length (n=4, so expected length is 6)
 find_missing_numbers(arr, n)  # Output: 3 5

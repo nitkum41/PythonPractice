@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b13e9cc3-1b71-4d52-8db3-c92cfd7c2cf9" name="Changes" comment="merging master to main">
-      <change afterPath="$PROJECT_DIR$/interview_collection/dic_zip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_collection/missing_number_series.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_collection/selenium_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/access_modifiers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_collection/dic_zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/interview_collection/dic_zip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_collection/missing_numbers_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/interview_collection/missing_numbers_series.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.access_modifiers.executor": "Run",
     "Python.anagram.executor": "Run",
     "Python.arrayreverse.executor": "Run",
     "Python.checkoccurenceinstring.executor": "Run",
@@ -62,6 +64,7 @@
     "Python.decorator_test.executor": "Run",
     "Python.dic_comprehension.executor": "Run",
     "Python.dic_sort.executor": "Run",
+    "Python.dic_zip.executor": "Run",
     "Python.duplicateitemsinlist.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.fibonacci.executor": "Run",
@@ -80,6 +83,7 @@
     "Python.list_prac.executor": "Run",
     "Python.listdic.executor": "Run",
     "Python.missing_number_series.executor": "Run",
+    "Python.missing_numbers_series.executor": "Run",
     "Python.mostrepeatedcharactersstring.executor": "Run",
     "Python.nparray.executor": "Run",
     "Python.numberreverse.executor": "Run",
@@ -115,7 +119,7 @@
       <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\interview" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.missing_numbers_series">
+  <component name="RunManager" selected="Python.access_modifiers">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,6 +134,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="access_modifiers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python basics_practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/access_modifiers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="checkoccurenceinstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dic_zip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,33 +195,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview_collection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/checkoccurenceinstring.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="counterlist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python basics_practice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/counterlist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview_collection/dic_zip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,11 +299,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.access_modifiers" />
+        <item itemvalue="Python.dic_zip" />
         <item itemvalue="Python.missing_numbers_series" />
         <item itemvalue="Python.missing_number_series" />
         <item itemvalue="Python.anagram" />
-        <item itemvalue="Python.checkoccurenceinstring" />
-        <item itemvalue="Python.counterlist" />
       </list>
     </recent_temporary>
   </component>
