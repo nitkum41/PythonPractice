@@ -1,6 +1,6 @@
 class A:
     def __init__(self):
-        pass
+        print("inside A constructor")
 
     def func(self):
         print("inside A")
@@ -8,7 +8,7 @@ class A:
 
 class B(A):
     def __init__(self):
-        pass
+        print("inside B constructor")
 
     def func(self):
         print("inside B")
@@ -16,7 +16,8 @@ class B(A):
 
 class C(B):
     def __init__(self):
-        super(B, self).func()
+        super(C,self).func()
+        # super().func() ## call func() of B
 
 
 # print(C.__mro__)

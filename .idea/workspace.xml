@@ -5,11 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b13e9cc3-1b71-4d52-8db3-c92cfd7c2cf9" name="Changes" comment="merging master to main">
-      <change afterPath="$PROJECT_DIR$/practice/access_modifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/pri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/pro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/pub_pri_pro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/copy_deepcopy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/kwargs_args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex/basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex/sub _split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/frozenset_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/ops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_collection/dic_zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/interview_collection/dic_zip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_collection/missing_numbers_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/interview_collection/missing_numbers_series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview.py" beforeDir="false" afterPath="$PROJECT_DIR$/generator/gen_basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/urlregex.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex/urlregex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview_collection/dic_zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/dic_zip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/access_modifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/access_modifiers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/classinheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/classinheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/dataframe_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_numpy/dataframe_ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/datetime_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/others/datetime_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/decorator_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorator/decorator_basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/decorator_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorator/decorator_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/dic.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/dic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/dic_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/dic_comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/dic_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/dic_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/dictionary1.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/dictionary1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/file/file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/global_local.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/global_local.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/list_com.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/list_com.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/list_enum_tuple_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple/list_enum_tuple_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/list_prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/list_prac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/listcomprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/listcomprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/listdic.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/listdic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/map_filter_gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/map/map_filter_gen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/mathreverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/mathreverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/matplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_numpy/matplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/matplotlib_bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_numpy/matplotlib_bar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/matsubplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_numpy/matsubplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/multi_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/thread_process/multi_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/nparray.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_numpy/nparray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/numpyy.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_numpy/numpyy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/prime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/random1.py" beforeDir="false" afterPath="$PROJECT_DIR$/others/random1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/reversenumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/reversenumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/scatter.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_numpy/scatter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/setops.py" beforeDir="false" afterPath="$PROJECT_DIR$/set/setops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/super.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/super.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/test1111.py" beforeDir="false" afterPath="$PROJECT_DIR$/generator/gen_fibonnaci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/thread.py" beforeDir="false" afterPath="$PROJECT_DIR$/thread_process/thread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/thread1.py" beforeDir="false" afterPath="$PROJECT_DIR$/thread_process/thread1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/while.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +102,12 @@
     "Python.access_modifiers.executor": "Run",
     "Python.anagram.executor": "Run",
     "Python.arrayreverse.executor": "Run",
+    "Python.basic.executor": "Run",
     "Python.checkoccurenceinstring.executor": "Run",
+    "Python.classinheritance.executor": "Run",
     "Python.clearlist.executor": "Run",
     "Python.cloneorcopylist.executor": "Run",
+    "Python.copy_deepcopy.executor": "Run",
     "Python.counterlist.executor": "Run",
     "Python.datetime_operations.executor": "Run",
     "Python.decorator_test.executor": "Run",
@@ -68,15 +117,20 @@
     "Python.duplicateitemsinlist.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.fibonacci.executor": "Run",
+    "Python.file.executor": "Run",
     "Python.firstchareachwordsentence.executor": "Run",
     "Python.forloop.executor": "Run",
     "Python.frequencyofcharsinstring.executor": "Run",
+    "Python.frozenset_set.executor": "Run",
+    "Python.gen_basic.executor": "Run",
+    "Python.gen_fibonnaci.executor": "Run",
     "Python.interview.executor": "Run",
     "Python.interview2.executor": "Run",
     "Python.json_dumps (1).executor": "Run",
     "Python.json_dumps.executor": "Run",
     "Python.json_loads.executor": "Run",
     "Python.json_ops.executor": "Run",
+    "Python.kwargs_args.executor": "Run",
     "Python.largestsubstringwithoutrepeatchar.executor": "Run",
     "Python.list_com.executor": "Run",
     "Python.list_enum_tuple_set.executor": "Run",
@@ -88,9 +142,13 @@
     "Python.nparray.executor": "Run",
     "Python.numberreverse.executor": "Run",
     "Python.numpyy.executor": "Run",
+    "Python.ops.executor": "Run",
     "Python.pattern.executor": "Run",
+    "Python.pri.executor": "Run",
     "Python.prime (1).executor": "Run",
     "Python.primenumbercheck.executor": "Run",
+    "Python.pro.executor": "Run",
+    "Python.pub_pri_pro.executor": "Run",
     "Python.random1.executor": "Run",
     "Python.removecharsandnumbersfromstring.executor": "Run",
     "Python.reverse.executor": "Run",
@@ -98,7 +156,9 @@
     "Python.setops.executor": "Run",
     "Python.specialcharacters.executor": "Run",
     "Python.stringreverse.executor": "Run",
+    "Python.sub _split.executor": "Run",
     "Python.substringpresent.executor": "Run",
+    "Python.super.executor": "Run",
     "Python.swap.executor": "Run",
     "Python.swap_list.executor": "Run",
     "Python.swap_numbers.executor": "Run",
@@ -108,18 +168,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/nitku/PycharmProjects/SeleniumProject",
+    "last_opened_file_path": "C:/Users/nitku/PycharmProjects/python basics_practice/dictionary",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\dictionary" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\json" />
-      <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\practice" />
-      <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\interview" />
+      <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\regex" />
+      <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\set" />
+      <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\pandas_numpy" />
+      <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\others" />
+      <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\oops" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.access_modifiers">
+  <component name="RunManager" selected="Python.sub _split">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="access_modifiers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +216,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/access_modifiers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regex/basic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,11 +238,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/anagram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dic_zip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="frozenset_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,11 +260,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview_collection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview_collection/dic_zip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set/frozenset_set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="missing_number_series" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,11 +282,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview_collection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview_collection/missing_number_series.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set/ops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,7 +295,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="missing_numbers_series" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sub _split" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,11 +304,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview_collection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview_collection/missing_numbers_series.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regex/sub _split.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.access_modifiers" />
-        <item itemvalue="Python.dic_zip" />
-        <item itemvalue="Python.missing_numbers_series" />
-        <item itemvalue="Python.missing_number_series" />
-        <item itemvalue="Python.anagram" />
+        <item itemvalue="Python.sub _split" />
+        <item itemvalue="Python.file" />
+        <item itemvalue="Python.basic" />
+        <item itemvalue="Python.ops" />
+        <item itemvalue="Python.frozenset_set" />
       </list>
     </recent_temporary>
   </component>
