@@ -30,15 +30,24 @@ try:
 
     # print results
     print("Printing Customers")
-    rows=[]
+    stored_procedure_result_rows=[]
 
     # print(len(list(cursor.stored_results())))
     for result in cursor.stored_results():
         # print(result.fetchall())
-        rows = result.fetchall()  ##get all rows
-    for r in rows:
-        print(r)
+        stored_procedure_result_rows = result.fetchall()  ##get all rows
+    # for r in stored_procedure_result_rows:
+    #     print(r)
         # print(result.fetchmany())
+
+    ##fetch test query data
+    cursor.execute("select * from customers")
+    test_query_data = cursor.fetchall()
+
+
+    ##check data is same from both the result set
+    print(test_query_data==stored_procedure_result_rows)
+
 except mysql.connector.Error as error:
     print("Failed to execute stored procedure: {}".format(error))
 finally:
