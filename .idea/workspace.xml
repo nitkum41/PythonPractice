@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b13e9cc3-1b71-4d52-8db3-c92cfd7c2cf9" name="Changes" comment="merging master to main">
-      <change afterPath="$PROJECT_DIR$/DB_MySQL/sql_files/stored_procedures.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DB_MySQL/stored_function_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_MySQL/sql_files/stored_function.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB_MySQL/stored_function_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/DB_MySQL/stored_function_tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,12 +127,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/nitku/PycharmProjects/python basics_practice/dictionary",
+    "last_opened_file_path": "C:/Users/nitku/PycharmProjects/python basics_practice/DB_MySQL/sql_files",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\DB_MySQL\sql_files" />
       <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\dictionary" />
     </key>
     <key name="MoveFile.RECENT_KEYS">

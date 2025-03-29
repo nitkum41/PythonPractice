@@ -57,8 +57,6 @@ def call_using_stored_procedure(cursor):
     cursor.execute(test_query)
     test_query_data = cursor.fetchall()
     print("Printing Status By Country", test_query_data, type(test_query_data))
-
-
     print(data[1]==test_query_data[0][1])
 
 
