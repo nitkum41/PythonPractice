@@ -5,57 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b13e9cc3-1b71-4d52-8db3-c92cfd7c2cf9" name="Changes" comment="merging master to main">
-      <change afterPath="$PROJECT_DIR$/oops/pri.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/pro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/pub_pri_pro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/copy_deepcopy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/kwargs_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex/basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex/sub _split.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set/frozenset_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set/ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_MySQL/db_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_MySQL/stored_procedure_inpu_output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_MySQL/stored_procedure_noargument.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_MySQL/stored_procedure_oneargument.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview.py" beforeDir="false" afterPath="$PROJECT_DIR$/generator/gen_basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview/urlregex.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex/urlregex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_collection/dic_zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/dic_zip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/access_modifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/access_modifiers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/classinheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/classinheritance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/dataframe_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_numpy/dataframe_ops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/datetime_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/others/datetime_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/decorator_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorator/decorator_basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/decorator_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorator/decorator_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/dic.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/dic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/dic_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/dic_comprehension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/dic_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/dic_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/dictionary1.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/dictionary1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/file/file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/global_local.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/global_local.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/list_com.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/list_com.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/list_enum_tuple_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple/list_enum_tuple_set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/list_prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/list_prac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/listcomprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/listcomprehension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/listdic.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/listdic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/map_filter_gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/map/map_filter_gen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/mathreverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/mathreverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/matplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_numpy/matplot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/matplotlib_bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_numpy/matplotlib_bar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/matsubplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_numpy/matsubplot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/multi_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/thread_process/multi_process.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/nparray.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_numpy/nparray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/numpyy.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_numpy/numpyy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/pattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/prime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/random1.py" beforeDir="false" afterPath="$PROJECT_DIR$/others/random1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/reversenumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/reversenumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/scatter.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_numpy/scatter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/setops.py" beforeDir="false" afterPath="$PROJECT_DIR$/set/setops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/super.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/super.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/test1111.py" beforeDir="false" afterPath="$PROJECT_DIR$/generator/gen_fibonnaci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/thread.py" beforeDir="false" afterPath="$PROJECT_DIR$/thread_process/thread.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/thread1.py" beforeDir="false" afterPath="$PROJECT_DIR$/thread_process/thread1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/while.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +108,12 @@
     "Python.reverse.executor": "Run",
     "Python.setdifference.executor": "Run",
     "Python.setops.executor": "Run",
+    "Python.sp.executor": "Run",
     "Python.specialcharacters.executor": "Run",
+    "Python.stored_procedure.executor": "Run",
+    "Python.stored_procedure1.executor": "Run",
+    "Python.stored_procedure_inpu_output.executor": "Run",
+    "Python.stored_procedure_oneargument (1).executor": "Run",
     "Python.stringreverse.executor": "Run",
     "Python.sub _split.executor": "Run",
     "Python.substringpresent.executor": "Run",
@@ -184,7 +143,7 @@
       <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\oops" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sub _split">
+  <component name="RunManager" selected="Python.stored_procedure_inpu_output">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="db_connection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DB_MySQL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regex/basic.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\nitku\PycharmProjects\python basics_practice\DB_MySQL\db_connection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stored_procedure_inpu_output" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -238,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DB_MySQL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DB_MySQL/stored_procedure_inpu_output.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="frozenset_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stored_procedure_noargument" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -260,11 +219,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DB_MySQL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set/frozenset_set.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\nitku\PycharmProjects\python basics_practice\DB_MySQL\stored_procedure_noargument.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stored_procedure_oneargument (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,11 +241,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DB_MySQL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set/ops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DB_MySQL/stored_procedure_oneargument.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sub _split" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stored_procedure_oneargument" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python basics_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -304,11 +263,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DB_MySQL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regex/sub _split.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\nitku\PycharmProjects\python basics_practice\DB_MySQL\stored_procedure_oneargument.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -364,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sub _split" />
-        <item itemvalue="Python.file" />
-        <item itemvalue="Python.basic" />
-        <item itemvalue="Python.ops" />
-        <item itemvalue="Python.frozenset_set" />
+        <item itemvalue="Python.stored_procedure_inpu_output" />
+        <item itemvalue="Python.stored_procedure_oneargument (1)" />
+        <item itemvalue="Python.stored_procedure_oneargument" />
+        <item itemvalue="Python.stored_procedure_noargument" />
+        <item itemvalue="Python.db_connection" />
       </list>
     </recent_temporary>
   </component>
