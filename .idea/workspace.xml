@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b13e9cc3-1b71-4d52-8db3-c92cfd7c2cf9" name="Changes" comment="merging master to main">
+      <change afterPath="$PROJECT_DIR$/DB_MySQL/sql_files/stored_procedures.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_MySQL/stored_function_tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB_MySQL/stored_procedure_inpu_output.py" beforeDir="false" afterPath="$PROJECT_DIR$/DB_MySQL/stored_procedure_inpu_output.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB_MySQL/stored_procedure_noargument.py" beforeDir="false" afterPath="$PROJECT_DIR$/DB_MySQL/stored_procedure_noargument.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB_MySQL/stored_procedure_oneargument.py" beforeDir="false" afterPath="$PROJECT_DIR$/DB_MySQL/stored_procedure_oneargument.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +108,7 @@
     "Python.setops.executor": "Run",
     "Python.sp.executor": "Run",
     "Python.specialcharacters.executor": "Run",
+    "Python.stored_function_tests.executor": "Run",
     "Python.stored_procedure.executor": "Run",
     "Python.stored_procedure1.executor": "Run",
     "Python.stored_procedure_inpu_output.executor": "Run",
@@ -136,14 +136,14 @@
       <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\dictionary" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\DB_MySQL\sql_files" />
       <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\regex" />
       <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\set" />
       <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\pandas_numpy" />
       <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\others" />
-      <recent name="C:\Users\nitku\PycharmProjects\python basics_practice\oops" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.stored_procedure_inpu_output">
+  <component name="RunManager" selected="Python.stored_function_tests">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,6 +158,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stored_function_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python basics_practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DB_MySQL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DB_MySQL/stored_function_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,28 +224,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DB_MySQL/stored_procedure_noargument.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="stored_procedure_noargument" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python basics_practice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DB_MySQL" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\nitku\PycharmProjects\python basics_practice\DB_MySQL\stored_procedure_noargument.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.stored_function_tests" />
         <item itemvalue="Python.stored_procedure_inpu_output" />
         <item itemvalue="Python.stored_procedure_oneargument (1)" />
         <item itemvalue="Python.stored_procedure_noargument (1)" />
         <item itemvalue="Python.stored_procedure_oneargument" />
-        <item itemvalue="Python.stored_procedure_noargument" />
       </list>
     </recent_temporary>
   </component>
